@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:blasting",
+  "type": "minecraft:smelting",
   "category": "misc",
-  "cookingtime": 100,
+  "cookingtime": 200,
   "experience": 0.25,
   "group": "bismuth",
   "ingredient": {
-    "item": "gaseoustortoisetech:bismuth_deepslate_ore"
+    "item": "gaseoustortoisetech:raw_bismuth"
   },
   "result": {
     "count": 1,

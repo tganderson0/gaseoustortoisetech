@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "gaseoustortoisetech:bismuth_block"
+          "name": "gaseoustortoisetech:magic_block"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "gaseoustortoisetech:blocks/bismuth_block"
+  "random_sequence": "gaseoustortoisetech:blocks/magic_block"
 }
