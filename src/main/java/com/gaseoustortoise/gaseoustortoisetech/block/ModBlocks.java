@@ -1,6 +1,7 @@
 package com.gaseoustortoise.gaseoustortoisetech.block;
 
 import com.gaseoustortoise.gaseoustortoisetech.GaseoustortoiseTech;
+import com.gaseoustortoise.gaseoustortoisetech.block.custom.MagicBlock;
 import com.gaseoustortoise.gaseoustortoisetech.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -50,4 +51,6 @@ public class ModBlocks {
             .requiresCorrectToolForDrops()
             .sound(SoundType.DEEPSLATE)
     ));
+
+    public static final DeferredBlock<Block> MAGIC_BLOCK = registerBlock("magic_block", () -> new MagicBlock(BlockBehaviour.Properties.of().strength(2.f).requiresCorrectToolForDrops()));
 }

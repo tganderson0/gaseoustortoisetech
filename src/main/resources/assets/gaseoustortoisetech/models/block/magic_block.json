@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gaseoustortoisetech:block/magic_block"
+  }
+}

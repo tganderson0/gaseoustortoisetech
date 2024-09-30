@@ -2,11 +2,13 @@
   "item.gaseoustortoisetech.bismuth": "Bismuth",
   "item.gaseoustortoisetech.raw_bismuth": "Raw Bismuth",
 
-  "item.gaseoustortoisetech:chisel": "Chisel",
+  "item.gaseoustortoisetech.chisel": "Chisel",
 
   "block.gaseoustortoisetech.bismuth_block": "Block of Bismuth",
   "block.gaseoustortoisetech.bismuth_ore": "Bismuth Ore",
   "block.gaseoustortoisetech.bismuth_deepslate_ore": "Deepslate Bismuth Ore",
+
+  "block.gaseoustortoisetech.magic_block": "Magic Block",
 
   "creativetab.gaseoustortoisetech.bismuth_items": "Bismuth Items",
   "creativetab.gaseoustortoisetech.bismuth_blocks": "Bismuth Blocks"
