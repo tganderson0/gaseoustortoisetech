@@ -1,6 +1,10 @@
 {
   "item.gaseoustortoisetech.bismuth": "Bismuth",
   "item.gaseoustortoisetech.raw_bismuth": "Raw Bismuth",
+
   "block.gaseoustortoisetech.bismuth_block": "Block of Bismuth",
-  "block.gaseoustortoisetech.bismuth_ore": "Bismuth Ore"
+  "block.gaseoustortoisetech.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.gaseoustortoisetech.bismuth_items": "Bismuth Items",
+  "creativetab.gaseoustortoisetech.bismuth_blocks": "Bismuth Blocks"
 }
